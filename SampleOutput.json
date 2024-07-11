@@ -1,0 +1,66 @@
+{
+  "status": "ok",
+  "totalResults": 6,
+  "articles": [
+    {
+      "source": { "id": "espn", "name": "ESPN" },
+      "author": null,
+      "title": "Austin Peay freshman Jeremiah Collins dies in single-car crash - ESPN",
+      "description": "Jeremiah Collins, a freshman football player at Austin Peay, died Friday night in a single-car crash near the school's campus in Clarksville, Tennessee.",
+      "url": "https://www.espn.com/college-football/story/_/id/38053316/austin-peay-freshman-jeremiah-collins-dies-single-car-crash",
+      "urlToImage": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2020%2F0921%2Fr749005_1296x729_16%2D9.jpg",
+      "publishedAt": "2023-07-22T17:43:59Z",
+      "content": "Jul 22, 2023, 01:43 PM ET\r\nCLARKSVILLE, Tenn. -- A freshman football player at Austin Peay died Friday night in a single-car crash near the school's campus in Clarksville, Tennessee, officials said.\r… [+1039 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "DC United: US sports trainer fired for 'discriminatory' hand gesture",
+      "description": "The hand gesture was spotted in a social media photograph of the MLS football team's staff.",
+      "url": "http://www.bbc.co.uk/news/world-us-canada-66276187",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/A008/production/_130486904_gettyimages-1232353259.jpg",
+      "publishedAt": "2023-07-22T17:07:22.5180478Z",
+      "content": "An athletic trainer for DC United, the MLS football club in Washington DC, has been fired for making a gesture that is considered by some to be a hate symbol. \r\nThe decision comes after the discovery… [+1809 chars]"
+    },
+    {
+      "source": { "id": "news-com-au", "name": "News.com.au" },
+      "author": "Jai Bednall",
+      "title": "Kim slammed for reaction to Messi magic",
+      "description": "It&rsquo;s been hailed as one of the most significant moments on US soil in football history, but can someone please tell Kim Kardashian?",
+      "url": "https://www.news.com.au/sport/football/clueless-kim-kardashian-slammed-for-reaction-to-lionel-messi-inter-miami-goal/news-story/0048601a2fad0838678f4528505dbd30",
+      "urlToImage": "https://content.api.news/v3/images/bin/09ec25f13579bc0db1e3fbc33d587635",
+      "publishedAt": "2023-07-22T13:50:00Z",
+      "content": "It’s been hailed as one of the most significant moments on US soil in football history, but can someone please tell Kim Kardashian?\r\nKardashian was teased online for appearing to miss the moment as L… [+4648 chars]"
+    },
+    {
+      "source": { "id": "talksport", "name": "TalkSport" },
+      "author": "161385360554578",
+      "title": "Messi stuns in debut, fresh twist in Mbappe saga, Partey to stay, Newcastle failed bid",
+      "description": "talkSPORT.com brings you all the latest football news, views and transfer gossip. Check out the headline stories and follow our live blog below for regular updates throughout the day. Headlines: EV…",
+      "url": "https://talksport.com/football/1486182/football-news-live-messi-mbappe-partey-mahrez-saudi-arabia/",
+      "urlToImage": "https://talksport.com/wp-content/uploads/sites/5/2023/07/MM-TALKSPORT-BLOG-COMP2.jpg?strip=all&quality=100&w=1500&h=1000&crop=1",
+      "publishedAt": "2023-07-22T08:35:34Z",
+      "content": "Ange Postecoglou has conceded he is ‘not relaxed’ about the Harry Kane situation.\r\nThe new Tottenham boss wants the transfer saga resolved soon, amid the continued speculation over his future and a p… [+1705 chars]"
+    },
+    {
+      "source": { "id": "espn", "name": "ESPN" },
+      "author": "Adam Rittenberg",
+      "title": "FAMU pauses football activities after rap video shot in locker room - ESPN",
+      "description": "Florida A&M football coach Willie Simmons announced the suspension of all team activities Friday night, hours after the release of an unauthorized rap video that was filmed in the team's locker room.",
+      "url": "https://www.espn.com/college-football/story/_/id/38050623/famu-football-suspends-team-activities-rap-video-filmed-locker-room",
+      "urlToImage": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2023%2F0722%2Fr1200740_1296x729_16%2D9.jpg",
+      "publishedAt": "2023-07-22T04:48:00Z",
+      "content": "Florida A&amp;M has suspended all football-related activities following the release of an unauthorized rap video filmed in the team locker room that contained explicit lyrics.\r\nCoach Willie Simmons a… [+1355 chars]"
+    },
+    {
+      "source": { "id": "espn-cric-info", "name": "ESPN Cric Info" },
+      "author": null,
+      "title": "Five famous people (and one cat) you didn't know have ESPNcricinfo profiles | ESPNcricinfo.com",
+      "description": "Why do a footballer, a Nobel laureate and a prime minister (no, not Imran Khan) find themselves in the ESPNcricinfo player database? | ESPNcricinfo.com",
+      "url": "http://www.espncricinfo.com/story/_/id/29102695/five-famous-people-one-cat-know-espncricinfo-profiles",
+      "urlToImage": "https://a.espncdn.com/i/cricket/cricinfo/1221668_1296x1296.gif",
+      "publishedAt": "2020-04-27T07:20:43Z",
+      "content": "Why do a cat, a footballer, a Nobel laureate and a prime minister find themselves in the ESPNcricinfo database? Here are six player profiles you wouldn't have expected we had.\r\nPeter the catThe only … [+5504 chars]"
+    }
+  ]
+}
